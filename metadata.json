@@ -1,0 +1,6 @@
+{
+  "name": "AI UGC Viral Content & Avatar Studio",
+  "description": "Studio konten UGC viral lengkap dengan Avatar Consistency Vault, multi-input hub, generator skrip 30 detik, analisis skor viral, A/B testing hook, dan optimasi lintas platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
